@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0183/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0183_WYG_000-1a, image: WYG1135/WYG1135-0783a.png}
+body:
+  text: 提要藏海居士集二卷别集類三宋臣等謹案藏海居士集散見永樂大典中題宋吳可撰可事蹟無考亦不知何許人考集中年月當在宣和之末其詩有一官老京師句又有挂冠養拙之語知其嘗官于汴京復乞閒以去又有往時家分寧比年客臨汝及避冦湘江外依劉汝水旁句知其嘗居洪州建炎以後轉徙楚豫之間又可别有藏海詩話一卷亦載永樂大典中多與韓駒論詩之語中有童德敏木筆詩一條考容齊三筆載臨川童德敏湖州題顔魯公祠堂詩一篇其人與洪邁同時則可於南渡之後至乾道淳熙間尚在也集中所與酬答者如王安中趙令畤米友仁諸人亦多南北宋間文士元祐諸賢風流未沫故所存篇什無多而大致清警與謝邁兄弟氣格相近特其集既不傳後之言宋詩者遂不能知其姓氏厲鶚宋詩紀事搜羅至三千八百餘家亦未之及則其沈晦已久矣今一一裒輯析為二卷與詩話同著于録俾不致終就湮沒焉乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:6ec910f2bdca71e8e5dcc742e27fe81e335ad24da458a9971f41cbad6682959e
+metadata:
+  title: 藏海居士集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:57:54.688213'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0183/KR4d0183_000.txt
+hash: sha256:114b17918c3dbd569fa0bcf003a9f8a7ffcd22557d8a75239ec971d6baa99745
